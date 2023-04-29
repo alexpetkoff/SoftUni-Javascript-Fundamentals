@@ -15,5 +15,4 @@ working with the console, using conditional constructions, loops, arrays etc...
     HTTP
 
 # Course Certificate
-
-
+![Programming Fundamentals with JavaScript - January 2023 - Certificate](https://user-images.githubusercontent.com/132137247/235304880-908a0276-237b-415f-827c-8b47ca62f796.jpeg)
