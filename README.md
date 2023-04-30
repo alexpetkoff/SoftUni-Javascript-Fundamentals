@@ -11,6 +11,8 @@ working with the console, using conditional constructions, loops, arrays etc...
 
     Working with more complex loops (nested for loops and while loops)
     Working with arrays, lists, objects
+    Regular Expressions
+    Text Processing
     HTML, CSS
     HTTP
 
