@@ -18,4 +18,4 @@ working with the console, using conditional constructions, loops, arrays etc...
     Phonebook project
 
 # Course Certificate
-![Programming Fundamentals with JavaScript - January 2023 - Certificate](https://user-images.githubusercontent.com/132137247/235304880-908a0276-237b-415f-827c-8b47ca62f796.jpeg)
+<img width='600px' height='1600px' src='https://user-images.githubusercontent.com/132137247/235304880-908a0276-237b-415f-827c-8b47ca62f796.jpeg'>
